@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    color: rgb(123, 226, 252);
+}
+#content {
+    background-color: bisque;
+    width: 1400px;
+    border: 1px black solid;
+    min-height: 100px;
+    margin: auto;
+
+}

@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    color: rgb(0, 118, 221);
+}
+/***********************************/
+#general {
+    width: 1400px;
+    border: 1px black solid;
+    min-height: 100px;
+    margin: auto;
+
+}
+/* HEADER */
+
+header {
+    background-color: rgba(137, 43, 226, 0.322);
+}
+
+/* NAV */
+nav {
+    background-color: rgba(127, 255, 212, 0.555);
+}
+
+/* MAIN */
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+section{
+    width: ;
+    height: 50%;
+
+}
+#a {
+    background-color: pink;
+    
+
+}
+#b {
+    background-color: rgb(97, 47, 55);
+
+} 
+#c {
+    background-color: rgb(124, 28, 44);
+
+}
+#d {
+    background-color: rgb(165, 45, 135);
+
+}
+
+/* FOOTER */
+footer {
+    background-color: rgba(190, 134, 243, 0.856);
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width:1398.99px ){
+    #general{
+        max-width:50%;
+    }
+}
